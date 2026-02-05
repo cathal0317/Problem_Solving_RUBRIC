@@ -1,5 +1,3 @@
-Assessment Criteria
-
 ### Entry
 - **Problem data and assumptions**: Clearly states the given information and assumptions of the problem (what I know), or explicitly specifies reasonable assumptions when they are not provided.
 - **Goal / unknown**: Clearly states the unknown of the problem and/or sets out precise goals for the investigation (what I want).
