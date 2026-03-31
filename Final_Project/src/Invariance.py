@@ -1,5 +1,3 @@
-# verify_invariant.py
-
 from Monte_Carlo import random_step
 from Monte_Carlo import diff_mod3
 
