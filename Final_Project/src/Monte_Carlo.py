@@ -14,9 +14,10 @@ def available_moves(state):
     return moves
 
 
-# def diff_mod3(state):
-#     a, b, c = state
-#     return ((a - b) % 3, (b - c) % 3)
+def diff_mod3(state):
+    a, b, c = state
+    return ((a - b) % 3, (b - c) % 3, (c - a) % 3)
+
 
 def is_single_species(state):
     return sum(x > 0 for x in state) == 1
